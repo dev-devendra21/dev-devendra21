@@ -1,5 +1,5 @@
 * 👋 Hello, I'm Devendra
-* 👀 Fresher React developer seeking related projects
+* 👀 Aspiring React developer looking for relevant projects
 * 🌱 Currently learning Backend development with NodeJs, ExpressJs, and MongoDB
 * 💞️ Interested in collaborating on Web projects
 * 📫 Contact me at devendrakumaraa@gmail.com
