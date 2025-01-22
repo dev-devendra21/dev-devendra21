@@ -32,7 +32,7 @@ I am an aspiring **React Developer** with a keen interest in building scalable a
 
 ## 📫 Let’s Connect
 
-- [GitHub Profile](https://github.com/dev-devendra21)  
+- [LinkedIn](www.linkedin.com/in/devendra-chandana)  
 - Email: **[devendrakumaraa@gmail.com](mailto:devendrakumaraa@gmail.com)**  
 
 ---
