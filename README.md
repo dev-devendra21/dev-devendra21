@@ -51,11 +51,6 @@ I'm a passionate **MERN Stack Developer** focused on crafting scalable and user-
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-devendra21&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-devendra21&theme=radical&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dev-devendra21&theme=react-dark&hide_border=true" width="95%"/>
 </p>
 
