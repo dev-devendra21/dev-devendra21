@@ -53,18 +53,16 @@ I'm a passionate **MERN Stack Developer** focused on crafting scalable and user-
 ### 🎓 HackerRank
 
 - **React.js Certificate**  
-  [![React.js](https://img.shields.io/badge/View_React_Certificate-2EC866?style=for-the-badge&logo=react&logoColor=white)](https://www.hackerrank.com/certificates/cec064268414)
+  [![React.js](https://www.hackerrank.com/certificates/cec064268414)
 
 - **JavaScript (Basic) Certificate**  
-  [![JavaScript](https://img.shields.io/badge/View_JavaScript_Certificate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.hackerrank.com/certificates/28bfe9edf3a4)
+  [![JavaScript](https://www.hackerrank.com/certificates/28bfe9edf3a4)
 
 ### 📘 NxtWave
 
-- **React.js**: [Certificate Link](https://nxtwave.example.com/react-certificate)  
-- **Node.js**: [Certificate Link](https://nxtwave.example.com/nodejs-certificate)  
-- **MERN / Full Stack**: [Certificate Link](https://nxtwave.example.com/fullstack-certificate)  
+- **React.js**: [Certificate Link](https://certificates.ccbp.in/intensive/react-js?id=VXXPTGTACF)  
+- **Node.js**: [Certificate Link](https://certificates.ccbp.in/intensive/node-js?id=WFCMKLUAOY)  
 
-> ⚠️ *Replace above URLs with actual certificate links*
 
 ---
 
@@ -83,10 +81,15 @@ I'm a passionate **MERN Stack Developer** focused on crafting scalable and user-
 
 ## 🎯 Goals for 2025
 
-- ✅ Master authentication, authorization, deployment  
-- 🔨 Build real-world full-stack apps  
-- 🌐 Contribute to open-source  
-- 📚 Learn system design & scalable architecture  
+- 🔐 Build full-stack apps with **JWT authentication** and **role-based access**  
+- 🌐 Deploy projects on **Amazon EC2**, and explore **Render, Vercel, Railway**  
+- 📦 Learn how to use **Amazon S3** for storing and serving static assets  
+- 🐳 Understand the **basics of Docker** and containerize a MERN app  
+- 🔧 Explore **DevOps fundamentals**: CI/CD, server setup, environment variables  
+- ✅ Learn the basics of **testing (Jest, Postman)** for backend routes  
+- 💡 Complete **2 real-world MERN stack projects**  
+- 🧰 Improve GitHub by adding **well-documented, clean-code repositories**   
+- 🧑‍💻 Network and **connect with 5+ devs** on LinkedIn to grow my community  
 
 ---
 
