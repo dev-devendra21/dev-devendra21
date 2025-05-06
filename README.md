@@ -48,24 +48,6 @@ I'm a passionate **MERN Stack Developer** focused on crafting scalable and user-
 
 ---
 
-## 📜 Certificates
-
-### 🎓 HackerRank
-
-- **React.js Certificate**  
-  [![React.js](https://www.hackerrank.com/certificates/cec064268414)
-
-- **JavaScript (Basic) Certificate**  
-  [![JavaScript](https://www.hackerrank.com/certificates/28bfe9edf3a4)
-
-### 📘 NxtWave
-
-- **React.js**: [Certificate Link](https://certificates.ccbp.in/intensive/react-js?id=VXXPTGTACF)  
-- **Node.js**: [Certificate Link](https://certificates.ccbp.in/intensive/node-js?id=WFCMKLUAOY)  
-
-
----
-
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
