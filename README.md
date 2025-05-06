@@ -49,10 +49,10 @@ I'm a passionate **MERN Stack Developer** focused on crafting scalable and user-
 ## 🏅 Coding Profiles & Certifications
 
 ### 🧠 LeetCode  
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your_username_here)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)]([https://leetcode.com/your_username_here](https://leetcode.com/u/devendrakumar07))
 
 ### 🎓 HackerRank Certificate  
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/your_certificate_id_here)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)]([https://www.hackerrank.com/certificates/your_certificate_id_here](https://www.hackerrank.com/certificates/cec064268414))
 
 > ✏️ *Replace the above links with your actual LeetCode and HackerRank URLs*
 
