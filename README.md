@@ -48,14 +48,6 @@ I'm a passionate **MERN Stack Developer** focused on crafting scalable and user-
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dev-devendra21&theme=react-dark&hide_border=true" width="95%"/>
-</p>
-
----
-
 ## 🎯 Goals for 2025
 
 - 🔐 Build full-stack apps with **JWT authentication** and **role-based access**  
