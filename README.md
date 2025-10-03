@@ -48,20 +48,6 @@ I'm a passionate **MERN Stack Developer** focused on crafting scalable and user-
 
 ---
 
-## 🎯 Goals for 2025
-
-- 🔐 Build full-stack apps with **JWT authentication** and **role-based access**  
-- 🌐 Deploy projects on **Amazon EC2**, and explore **Render, Vercel, Railway**  
-- 📦 Learn how to use **Amazon S3** for storing and serving static assets  
-- 🐳 Understand the **basics of Docker** and containerize a MERN app  
-- 🔧 Explore **DevOps fundamentals**: CI/CD, server setup, environment variables  
-- ✅ Learn the basics of **testing (Jest, Postman)** for backend routes  
-- 💡 Complete **2 real-world MERN stack projects**  
-- 🧰 Improve GitHub by adding **well-documented, clean-code repositories**   
-- 🧑‍💻 Network and **connect with 5+ devs** on LinkedIn to grow my community  
-
----
-
 ## 📬 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Devendra_Chandana-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/devendra-chandana)
