@@ -12,8 +12,7 @@ I'm a passionate **MERN Stack Developer** focused on crafting scalable and user-
 ---
 
 ## 👨‍💻 About Me
-
-- 🌱 Learning **advanced backend development** with Node.js, Express.js, MongoDB  
+  
 - 💻 Building projects with the **MERN Stack**  
 - 🌍 Interested in **real-world collaboration** and **open-source contributions**  
 - 📫 Reach me: [devendrakumaraa@gmail.com](mailto:devendrakumaraa@gmail.com)
