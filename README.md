@@ -2,9 +2,9 @@
 
 ###  A Full Stack Javascript developer
 
-- 🔭 I'm currently working on **Building production-ready full-stack applications with React, Node.js, PostgreSQL, and modern backend architectures.**
+- 🔭 I'm currently working on **Building production-ready full-stack applications with React, Node.js, Express.js, PostgreSQL, and modern backend architectures.**
 
-- 🌱 I'm currently learning **Generative AI, LLM applications, AI agents, MCP servers, RAG systems, and scalable backend engineering.**
+- 🌱 I'm currently learning **Generative AI, LLM applications, AI agents, MCP servers, RAG systems**
 
 - 👯 I'm looking to collaborate on **Open-source projects, AI-powered applications, developer tools, and SaaS products.**
 
